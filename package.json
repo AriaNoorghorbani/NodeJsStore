@@ -1,0 +1,12 @@
+{
+  "name": "nodeja-maxi",
+  "version": "1.0.0",
+  "description": "first time trying",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "aria noorghorbani",
+  "license": "ISC"
+}
