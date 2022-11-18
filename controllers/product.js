@@ -19,3 +19,4 @@ exports.shop = (req, res, next) => {
         activeShop: true
     });
 }
+
