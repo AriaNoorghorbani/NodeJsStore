@@ -1,9 +1,1 @@
-[
-  {
-    "id": "234234",
-    "title": "A Book",
-    "imageUrl": "https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg",
-    "description": "This is an awesome book!",
-    "price": "19"
-  }
-]
+[{"id":"234234","title":"A Book","imageUrl":"https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg","description":"This is an awesome book!","price":"19"},{"title":"asbe abi","imageUrl":"https://www.shutterstock.com/image-photo/water-horse-made-galloping-260nw-1106104136.jpg","description":"this is a asbe abi","price":"1","id":"0.7257946232357895"}]
